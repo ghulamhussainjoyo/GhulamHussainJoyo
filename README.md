@@ -1,4 +1,5 @@
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <h1 align="center">Hi there 👋, It's me Ghulam Hussain</h1>
 
 <h3 align="center"> I am highly motivated and energetic Software Engineering student who believes in learning by solving challenging tasks, through online platforms and working among expert developers. Eager to perform valuable work using computer programming skills. </h3>
@@ -34,7 +35,8 @@ Languages and Tools:
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 
 <a href="https://docs.soliditylang.org/en/v0.8.16/" target="_blank">   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40" style="color:white" />       
+<!--    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40" style="color:white" />  -->
+   <i class="devicon-solidity-plain"></i>
 </a>
 
 
