@@ -47,6 +47,11 @@ Languages and Tools:
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solity" width="50" height="40" />   
 </a>
 
+<a href="https://docs.soliditylang.org/en/v0.8.16/" target="_blank">  
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="40" />
+
+</a>
+
 
 
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
