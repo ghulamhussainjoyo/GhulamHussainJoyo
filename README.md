@@ -4,7 +4,7 @@
 <h3 align="center"> I am highly motivated and energetic Software Engineering student who believes in learning by solving challenging tasks, through online platforms and working among expert developers. Eager to perform valuable work using computer programming skills. </h3>
 
 
-Skills: Linux | Java | Git - Github | Adobe XD | JavaScript | NodeJS  | Express | React Native | Web3 |  Solidity | Hard Hat | Docker
+Skills: Linux | Java | Git - Github | Adobe XD | HTML | CSS | SCSS | XML | JavaScript |  NodeJS  | Express | React | React Native | Web3 |  Solidity | Hard Hat | Docker
 
 
 - 🔭 I’m currently working on  **MERN & Full Stack Web Development**. 
@@ -54,7 +54,7 @@ Languages and Tools:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jabbar-dev&show_icons=true&theme=dark)  
 
-![GitHub metrics](https://metrics.lecoq.io/jabbar-dev)  
+![GitHub metrics](https://metrics.lecoq.io/ghulamhussainjoyo)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jabbar-dev)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ghulamhussainjoyo)  
 
