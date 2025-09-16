@@ -5,6 +5,8 @@
 I specialize in building and scaling **mobile applications (iOS & Android)** using **React Native**.  
 Alongside mobile apps, I have strong experience in **full-stack development** with modern frameworks like **Next.js, Nest.js, React.js, Node.js, MongoDB, PostgreSQL, and TypeScript**.  
 
+Recently, I’ve also been working on **AI-powered applications** using **LangChain, OpenAI, and Vector Databases**, bringing automation and intelligence into digital solutions.  
+
 I love crafting seamless digital experiences — from **frontend design** to **backend architecture** and **database optimization**.  
 
 ---
@@ -12,6 +14,7 @@ I love crafting seamless digital experiences — from **frontend design** to **b
 ## 🧑‍💻 About Me
 - 📱 4+ years of professional experience in **mobile app development** (React Native, iOS, Android).  
 - 🌐 Skilled in **end-to-end development** (Frontend + Backend + Databases).  
+- 🤖 Hands-on experience in **AI/LLM apps** (LangChain, OpenAI, Vector DBs).  
 - 🤝 Open to **collaborations, freelance projects, and full-time opportunities**.  
 - 💡 Passionate about building **user-centric apps** that scale.  
 
@@ -21,7 +24,6 @@ I love crafting seamless digital experiences — from **frontend design** to **b
 
 **Mobile Development:**  
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
- 
 
 **Frontend & Frameworks:**  
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -32,6 +34,12 @@ I love crafting seamless digital experiences — from **frontend design** to **b
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+**AI & Automation:**  
+![LangChain](https://img.shields.io/badge/LangChain-1E1E1E?style=for-the-badge&logo=chainlink&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![VectorDB](https://img.shields.io/badge/VectorDB-FF6F00?style=for-the-badge&logo=postgresql&logoColor=white)  
+![WhatsApp Cloud API](https://img.shields.io/badge/WhatsApp%20Cloud%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  
 
 **Languages & Tools:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
@@ -54,6 +62,10 @@ A modern platform built with **React Native & Next.js**, integrating real-time f
 
 ### 🔹 [7Solar.pk](https://www.7solar.pk/)  
 A renewable energy platform providing **solar solutions** with a sleek UI and strong backend integrations.  
+
+### 🔹 AI-Powered Store Assistant  
+Developed an **AI chatbot** using **LangChain + PostgreSQL Vector DB + OpenAI Agent SDK + WhatsApp Cloud API**.  
+It provides **automated replies** to customer queries about their store — improving customer support and response time.  
 
 ---
 
