@@ -1,101 +1,70 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-<h1 align="center">Hi there 👋, It's me Ghulam Hussain</h1>
+# 👋 Hi, I'm Ghulam Hussain  
 
-<h3 align="center"> I am highly motivated and energetic Software Engineering student who believes in learning by solving challenging tasks, through online platforms and working among expert developers. Eager to perform valuable work using computer programming skills. </h3>
+🚀 **React Native & Full-Stack Developer | 4+ Years of Experience**  
 
+I specialize in building and scaling **mobile applications (iOS & Android)** using **React Native**.  
+Alongside mobile apps, I have strong experience in **full-stack development** with modern frameworks like **Next.js, Nest.js, React.js, Node.js, MongoDB, PostgreSQL, and TypeScript**.  
 
-Skills: Linux | Java | Git - Github | Adobe XD | HTML | CSS | SCSS | XML | JavaScript |  NodeJS  | Express | React | React Native | Web3 |  Solidity | Hard Hat | Docker
+I love crafting seamless digital experiences — from **frontend design** to **backend architecture** and **database optimization**.  
 
+---
 
-- 🔭 I’m currently working on  **MERN & Full Stack Web Development**. 
-- 👯 I’m looking to collaborate on **Java, Spring Boot, Nodejs Web Applicaiotions**  
-- 💬 Ask me about **Java & Full Stack Web Development**.  
-- 📫 How to reach me **ghulamhussain.software@gmail.com**
-![Profile views](https://gpvc.arturio.dev/ghulamhussainjoyo)  
+## 🧑‍💻 About Me
+- 📱 4+ years of professional experience in **mobile app development** (React Native, iOS, Android).  
+- 🌐 Skilled in **end-to-end development** (Frontend + Backend + Databases).  
+- 🤝 Open to **collaborations, freelance projects, and full-time opportunities**.  
+- 💡 Passionate about building **user-centric apps** that scale.  
 
+---
 
+## 🛠 Tech Stack  
 
+**Mobile Development:**  
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ghulamhussainjoyo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ghulamhussainjoyo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/...)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/.../)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/...)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](...)  
+**Frontend & Frameworks:**  
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 
+**Backend & Databases:**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+**Languages & Tools:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)  
 
-Languages and Tools:
-<br/>
-<br/>
+---
 
-<a href="#">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40" height="40"/>
-</a>
+## 🚀 Featured Projects  
 
-<a href="#">
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="40" height="40"/>
-</a>
-<a href="#">
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="40" height="40"/>
-</a>
-<a href="#">
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="40" height="40"/>
-</a>
-<a href="#">
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40" height="40"/>
-</a>
+### 🔹 [Flo Pilates](https://pilatesflo.com/)  
+A fitness app that provides **guided pilates sessions** with smooth video integrations and personalized workouts.  
 
-<a href="https://www.java.com" target="_blank"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a>
+### 🔹 [RedgeFit](https://www.getredge.com/)  
+A **fitness & wellness platform** delivering workout plans, community features, and personalized health tracking.  
 
-<a href="https://www.w3schools.com/html/" target="_blank">           
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+### 🔹 Khapy (Website & Mobile App)  
+A modern platform built with **React Native & Next.js**, integrating real-time features for seamless user engagement.  
 
-</a> 
+### 🔹 [7Solar.pk](https://www.7solar.pk/)  
+A renewable energy platform providing **solar solutions** with a sleek UI and strong backend integrations.  
 
-<a href="https://www.w3schools.com/css/" target="_blank"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+---
 
+## 📬 Let’s Connect  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghulamhussainjoyo)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghulamhussain.software@gmail.com)  
 
-<a href="https://docs.soliditylang.org/en/v0.8.16/" target="_blank">   
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solity" width="50" height="40" />   
-</a>
+💡 *Always open to exciting opportunities, collaborations, and freelance projects!*  
 
-<a href="https://docs.soliditylang.org/en/v0.8.16/" target="_blank">  
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="40" />
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a>
-
-
-<a href="#">
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="40" height="40"/>
-</a>
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ghulamhussainjoyo)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamhussainjoyo)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ghulamhussainjoyo&show_icons=true&theme=dark)  
-
-![GitHub metrics](https://metrics.lecoq.io/ghulamhussainjoyo)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ghulamhussainjoyo)  
-
+---
+✨ _“Code is not just about solving problems, it’s about creating experiences.”_ ✨
